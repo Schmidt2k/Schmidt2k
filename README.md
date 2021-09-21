@@ -5,13 +5,6 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=schmidt2k&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schmidt2k&layout=compact&langs_count=7&theme=react" />
 
-  <div class="tenor-gif-embed" data-postid="23156989" data-share-method="host" data-width="100%" data-aspect-ratio="1.7913669064748199">
-  <a href="https://tenor.com/view/gif-23156989">GIF
-  </a> 
-  </div>
-  <script type="text/javascript" async src="https://tenor.com/embed.js">
-  </script>
-  </a>
 </div>
  <br>
 <div  align="center"> 
